@@ -1,1 +1,1 @@
-web: gunicorn freezer:app
+web: opentelemetry-instrument guinicorn freezer.app
