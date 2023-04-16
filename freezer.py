@@ -2,7 +2,8 @@
 from flask import Flask, json, request, Response
 import random
 import datetime
-from loguru import logger
+# from loguru import logger
+import logging as logger
 
 app = Flask("pizzaiolo")
 name="Freeze"

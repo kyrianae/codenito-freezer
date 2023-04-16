@@ -1,6 +1,6 @@
 flask
 # logging
-loguru
+# loguru
 gunicorn
 opentelemetry-api
 opentelemetry-sdk
